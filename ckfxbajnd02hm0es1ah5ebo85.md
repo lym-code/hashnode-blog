@@ -1,4 +1,4 @@
-## Way to convert Javascript Object to an Array
+## Convert Javascript Object to an Array
 
 It was a bit lengthy to convert `Object` to an `Array` in Javascript <br>
 so we had to do something like this 😐
