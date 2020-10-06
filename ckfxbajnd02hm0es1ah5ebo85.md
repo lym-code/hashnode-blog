@@ -25,7 +25,7 @@ Later `ES6` Introduced and we got easiest way
 
 Now, there is a built-in method that quickly turns all the keys of object into an array:
 
-`1. Object.keys`
+#### 1. Object.keys
 
 ```
 var animals = {
@@ -37,7 +37,7 @@ const keys = Object.keys(animals);
  keys; // ["cat", "dog"]
 ``` 
 
-`2. Object.values`
+#### 2. Object.values
 
 Using `Object.values` we can extract the values into an array with one method.
 
@@ -48,6 +48,21 @@ Using `Object.values` we can extract the values into an array with one method.
 };
 
 const values = Object.values(animals);
-values;
+values; 
  // [1,2]
+
 ``` 
+
+#### 3. Object.entries
+using `Object.entries` now we will get both (keys and values) now 🥳
+
+```
+var animals = {
+  cat: 1,
+  dog: 2,
+};
+
+const entries = Object.entries(animals);
+ entries; //  [['cat':1],['dog':2]]
+``` 
+
