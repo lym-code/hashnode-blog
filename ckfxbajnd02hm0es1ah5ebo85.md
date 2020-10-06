@@ -1,6 +1,8 @@
 ## Convert Javascript Object to an Array
 
-It was a bit lengthy to convert `Object` to an `Array` in Javascript <br>
+After ES2017 released. We have 3 variations to convert an Object to an Array 🎊
+
+It was a bit lengthy to convert `Object` to an `Array` in Javascript  before ES6 <br>
 so we had to do something like this 😐
 ```
 var animals = {
