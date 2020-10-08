@@ -36,4 +36,7 @@ vue.new          - Create a new Vue  codesandbox ```
  ```
 ng.new          - Create a new Angular  codesandbox ```
 
+<br>
+#### Download it from here 
+![Screenshot 2020-10-08 at 12.11.37 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602139705728/_CFEEQqST.png)
 
