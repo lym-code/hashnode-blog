@@ -1,4 +1,4 @@
-## Rendering any JSON data in tree view
+## Render any JSON data in tree view
 
 **Creating Collapsible Tree Structures from JSON into HTML in JavaScript**
 <br>
