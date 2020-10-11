@@ -1,6 +1,7 @@
 ## Rendering JSON data in HTML
 
 **Creating Collapsible Tree Structures from JSON into HTML in JavaScript**
+<br>
 So we will be using the `Render Json` library.
 
 ```
